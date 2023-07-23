@@ -5,7 +5,7 @@ const ejs = require("ejs");
 const _ = require('lodash');
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://admin-tushar:tushar99@cluster0.b8emz.mongodb.net/blogDB?retryWrites=true&w=majority', {useNewUrlParser: true});
+mongoose.connect('mongodb+srv://admin-divya:divya99@cluster0.b8emz.mongodb.net/blogDB?retryWrites=true&w=majority', {useNewUrlParser: true});
 
 // let posts = [];
 
