@@ -30,7 +30,7 @@ This project is a blog website implemented using Node.js, MongoDB for database s
 ![Home Page](screenshots/home.png)
 *Screenshot of the home page displaying list of blog posts.*
 
-![Create Post](screenshots/compose-post.png)
+![Create Post](screenshots/compose.png)
 *Screenshot of the Compose post page.*
 
 ## Contributing
