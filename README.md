@@ -40,7 +40,11 @@ Contributions are welcome! Please fork the repository and create a pull request.
 ## Demo Video
 
 
-https://github.com/Divyaaa02/Blog_Website/assets/109462776/711753dc-c0f3-4d28-9a2c-bec46b40225c
+
+
+
+
+https://github.com/Divyaaa02/Blog_Website/assets/109462776/534685da-1c53-4992-abd7-2ae6b57b9ce5
 
 
 
