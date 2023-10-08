@@ -37,6 +37,13 @@ This project is a blog website implemented using Node.js, MongoDB for database s
 
 Contributions are welcome! Please fork the repository and create a pull request.
 
+## Demo Video
+
+
+https://github.com/Divyaaa02/Blog_Website/assets/109462776/711753dc-c0f3-4d28-9a2c-bec46b40225c
+
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
